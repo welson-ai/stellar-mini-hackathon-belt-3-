@@ -1,7 +1,7 @@
 #  Stellar Token Wallet
  belt requirements
  ![screenshot showing test output showing 3+ tests passing
- ](images/test image.png)
+ ](images/testimage.png)
 
 
 #  Stellar Token Wallet
