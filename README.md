@@ -1,17 +1,17 @@
-# 💫 Stellar Token Wallet
+#  Stellar Token Wallet
 
 A mini-dApp built on the Stellar testnet that lets you connect your Freighter wallet, check your XLM balance, send payments, and view transaction history.
 
-## ✨ Features
-- 🔗 Freighter wallet connect/disconnect
-- 💰 Real-time XLM balance with auto-refresh every 30s
-- 💸 Send XLM payments with memo support
-- 📜 Transaction history (last 10)
-- ⏳ Loading states and progress indicators
-- 🗃️ Smart caching (balance: 30s TTL, transactions: 60s TTL)
-- ✅ Unit tests with Jest
+##  Features
+- Freighter wallet connect/disconnect
+-  Real-time XLM balance with auto-refresh every 30s
+-  Send XLM payments with memo support
+- Transaction history (last 10)
+- Loading states and progress indicators
+- Smart caching (balance: 30s TTL, transactions: 60s TTL)
+-  Unit tests with Jest
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Next.js 14+ (App Router)
 - TypeScript
 - Tailwind CSS
@@ -19,12 +19,12 @@ A mini-dApp built on the Stellar testnet that lets you connect your Freighter wa
 - Freighter API (@stellar/freighter-api)
 - Jest + Testing Library
 
-## 📋 Prerequisites
+## Prerequisites
 - Node.js 18+
 - [Freighter Wallet](https://freighter.app) browser extension
 - A Stellar testnet account (use Friendbot to fund)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 git clone <your-repo>
