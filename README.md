@@ -1,4 +1,10 @@
 #  Stellar Token Wallet
+ belt requirements
+ ![screenshot showing test output showing 3+ tests passing
+ ](images/test image.png)
+
+
+#  Stellar Token Wallet
 
 A mini-dApp built on the Stellar testnet that lets you connect your Freighter wallet, check your XLM balance, send payments, and view transaction history.
 
